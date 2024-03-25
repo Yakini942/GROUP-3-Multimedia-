@@ -9,4 +9,4 @@ IRASUBIZA Denyse.         222003006
 Ishimwe MPUNDU Fideline.  222003430
 Nayituriki Louise.        222008154
 Mahoro Enock.             221023235
-Niyonshuti Jean Pierre.   222003223
+NIYONSHUTI Jean Pierre.   222003223
